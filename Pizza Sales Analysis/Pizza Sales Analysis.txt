@@ -1,6 +1,7 @@
 Pizza Sales Analysis Using SQL
 
-In this project, we explore a pizza sales dataset using SQL to uncover key business insights. The goal is to analyze overall sales performance, identify best-selling pizzas, understand customer ordering patterns, and determine peak sales hours and days. This project showcases skills in data cleaning, aggregation, and visualization using SQL queries—ideal for developing real-world business intelligence and data analysis capabilities.
+In this project, we explore a pizza sales dataset using SQL to uncover key business insights. The goal is to analyze overall sales performance, identify best-selling pizzas, understand customer ordering patterns, and determine peak sales hours and days. 
+This project showcases skills in data cleaning, aggregation, and visualization using SQL queries—ideal for developing real-world business intelligence and data analysis capabilities.
 
 Questions:
 
